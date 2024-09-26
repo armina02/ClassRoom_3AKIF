@@ -4,6 +4,8 @@ public class ClassRoom
     private String roomNr;
     private boolean computer;
     private int size;
+    private boolean beamer;
+    private boolean windows;
     
     public ClassRoom(String neuRoomNr, boolean neuComputer, int neuSize)
     {
