@@ -6,6 +6,7 @@ public class ClassRoom
     private int size;
     private boolean beamer;
     private boolean windows;
+    //gehört nur mir, deswegen ist das Anlegen der Eigenschaften privat
     
     public ClassRoom(String neuRoomNr, boolean neuComputer, int neuSize)
     {
